@@ -5,3 +5,15 @@
 5.開新檔案： touch 檔案名稱 
 
 git init 數據庫名稱
+
+git add .  加入索引
+git status 檢查狀態
+$ git add b.txt 加入單個索引
+
+git commit -m 'update1'  commit
+ 
+-------------------------------------
+         add        commit   
+工作目錄        索引         本地數據庫
+
+-------------------------------------
